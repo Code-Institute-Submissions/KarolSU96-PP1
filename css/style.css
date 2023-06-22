@@ -52,7 +52,7 @@ nav a:hover {
   text-decoration: underline;
 }
 
-/* main conent section in about me*/
+/* main conent section in index.html*/
 #about-me {
   background-color: #eee2de;
   border-style: solid;
@@ -60,7 +60,7 @@ nav a:hover {
   height: 700px;
   overflow: hidden;
 }
-/* trying to figure out how to genter this img  */
+
 #selfie {
   float: left;
   width: 50%;
@@ -79,5 +79,23 @@ nav a:hover {
   font-weight: 700;
   text-align: center;
   padding-top: 200px;
+  padding-left: 75px;
   font-size: 1.5rem;
+}
+
+/* footer */
+footer h2 {
+  text-align: center;
+}
+
+footer ul {
+  text-align: center;
+  margin-top: 5%;
+  padding-bottom: 30px;
+}
+
+footer li {
+  list-style: none;
+  display: inline;
+  margin: 5%;
 }
