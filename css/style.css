@@ -86,11 +86,12 @@ nav a:hover {
 /* footer */
 footer h2 {
   text-align: center;
+  margin: auto;
 }
 
 footer ul {
   text-align: center;
-  margin-top: 5%;
+  margin-top: 3%;
   padding-bottom: 30px;
 }
 
