@@ -56,3 +56,13 @@ nav a:hover {
 #about-me {
   background-color: #eee2de;
 }
+
+#selfie {
+  float: left;
+  width: 50%;
+}
+
+#my-description {
+  float: right;
+  width: 50%;
+}
