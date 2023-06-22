@@ -16,13 +16,14 @@ header {
   padding: 0;
 }
 
-header h2 {
-  font-size: 30rem;
+header h1 {
+  font-size: 3rem;
 }
 
 nav {
   background-color: #ea906c;
   color: #2b2a4c;
+  text-transform: uppercase;
 }
 
 nav a {
@@ -38,4 +39,5 @@ nav a:hover {
 
 #menu > li {
   display: inline;
+  margin: 0 10px 0 10px;
 }
