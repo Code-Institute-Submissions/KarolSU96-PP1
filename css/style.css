@@ -53,7 +53,7 @@ nav a:hover {
 }
 
 /* main conent section in index.html*/
-#about-me {
+#main-section {
   background-color: #eee2de;
   border-style: solid;
   border-color: #b31312;
@@ -100,3 +100,11 @@ footer li {
   display: inline;
   margin: 5%;
 }
+
+/* hobbies page, header not changed */
+
+#container-top {
+  display: flex;
+}
+
+#book
