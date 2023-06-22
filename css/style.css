@@ -55,14 +55,27 @@ nav a:hover {
 /* main conent section in about me*/
 #about-me {
   background-color: #eee2de;
+  border-style: solid;
+  border-color: #b31312;
+  height: 700px;
+  overflow: hidden;
 }
-
+/* trying to figure out how to genter this img  */
 #selfie {
   float: left;
   width: 50%;
+  padding-top: 100px;
+}
+
+#selfie img {
+  float: right;
 }
 
 #my-description {
-  float: right;
-  width: 50%;
+  float: left;
+  width: 25%;
+  color: #2b2a4c;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 200px;
 }
