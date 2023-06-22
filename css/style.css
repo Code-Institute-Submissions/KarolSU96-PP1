@@ -51,3 +51,8 @@ nav a:hover {
 .active-page {
   text-decoration: underline;
 }
+
+/* main conent section in about me*/
+#about-me {
+  background-color: #eee2de;
+}
