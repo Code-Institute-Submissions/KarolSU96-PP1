@@ -47,3 +47,7 @@ nav a:hover {
   display: inline;
   margin: 0 10px 0 10px;
 }
+
+.active-page {
+  text-decoration: underline;
+}
