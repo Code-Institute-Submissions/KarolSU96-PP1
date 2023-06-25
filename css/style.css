@@ -156,3 +156,20 @@ footer li {
 #contact-form > h2 {
   text-align: center;
 }
+
+/* media queries  */
+
+@media screen and (max-width: 940px) {
+  #selfie img {
+    width: 200px;
+  }
+  #selfie {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  #bio {
+    text-align: center;
+  }
+}
