@@ -106,7 +106,7 @@ footer li {
 #container-top {
   display: flex;
   justify-content: center;
-  margin-top: 20px;
+  margin: 20px 5px 5px 5px;
 }
 
 #guitar {
@@ -115,6 +115,7 @@ footer li {
   text-align: left;
   font-size: 1.5rem;
   width: 350px;
+  padding-right: 10px;
 }
 
 #ytvideo {
@@ -125,8 +126,18 @@ footer li {
 #container-bottom {
   display: flex;
   justify-content: center;
+  margin: 20px 5px 5px 5px;
 }
 
-#books {
+#books-img {
   width: 300px;
+}
+
+#reading {
+  color: #2b2a4c;
+  font-weight: 700;
+  text-align: right;
+  font-size: 1.5rem;
+  width: 350px;
+  padding-left: 10px;
 }
