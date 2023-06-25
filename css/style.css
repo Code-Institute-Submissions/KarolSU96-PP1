@@ -106,6 +106,15 @@ footer li {
 #container-top {
   display: flex;
   justify-content: center;
+  margin-top: 20px;
+}
+
+#guitar {
+  color: #2b2a4c;
+  font-weight: 700;
+  text-align: left;
+  font-size: 1.5rem;
+  width: 350px;
 }
 
 #ytvideo {
@@ -113,7 +122,7 @@ footer li {
   height: 560px;
 }
 
-#container-bttom {
+#container-bottom {
   display: flex;
   justify-content: center;
 }
