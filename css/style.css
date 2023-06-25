@@ -141,3 +141,9 @@ footer li {
   width: 350px;
   padding-left: 10px;
 }
+
+/* jam.html styles */
+
+#contact-form > h2 {
+  text-align: center;
+}
