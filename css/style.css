@@ -105,6 +105,19 @@ footer li {
 
 #container-top {
   display: flex;
+  justify-content: center;
 }
 
-#book
+#ytvideo {
+  width: 315px;
+  height: 560px;
+}
+
+#container-bttom {
+  display: flex;
+  justify-content: center;
+}
+
+#books {
+  width: 300px;
+}
