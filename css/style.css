@@ -155,6 +155,15 @@ footer li {
   text-align: center;
 }
 
+/* credits.html page */
+#credits {
+  text-align: center;
+}
+
+#credits ul {
+  list-style-type: none;
+}
+
 /* media queries  for index.html */
 
 @media screen and (max-width: 940px) {
