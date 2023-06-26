@@ -56,3 +56,10 @@ The header and footer style stays the same throughout all 4 pages.
 * ## Shared Features:
 * Header and navbar stay the same across all pages with website title for easy navigation for the visitors.
 * Footer also stays the same across all pages and provides links to social media.
+
+## Technologies Used
+
+- HTML
+- CSS
+
+## Credits
