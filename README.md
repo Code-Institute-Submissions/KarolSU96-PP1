@@ -31,6 +31,14 @@ The website consists of multiple pages:
 ⋅\*Credits.
 ![Credits Page](image-3.png)
 
-The header and footer style stays the same throughout all 4 pages.The whole website is using Nunito font.
+The whole website is using Nunito font.
+The header and footer style stays the same throughout all 4 pages.
 
 On "About me" page user the visitors can see how I look and read a short bio that describes what I do with small encouragement for jam session.
+
+# Features
+
+- ## About Me Page:
+- Introduces the user to me and my personal site.
+- Displays a graphic that looks really similar to me IRL.
+- Provides short description of myself.
