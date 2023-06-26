@@ -20,7 +20,6 @@ It allows the musicians that I meet to quickly look at my interest and contact m
 The website consists of multiple pages:
 
 ⋅\*About me.
-
 ⋅\*Hobbies.
 
 ⋅\*Jam with me.
