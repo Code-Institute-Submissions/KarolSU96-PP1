@@ -34,8 +34,6 @@ The website consists of multiple pages:
 The whole website is using Nunito font.
 The header and footer style stays the same throughout all 4 pages.
 
-On "About me" page user the visitors can see how I look and read a short bio that describes what I do with small encouragement for jam session.
-
 # Features
 
 - ## About Me Page:
@@ -51,3 +49,10 @@ On "About me" page user the visitors can see how I look and read a short bio tha
 
 - Encourages visitors to collaborate with me and make some music together.
 - Includes a form for visitors to enter thier name, email and leave a short message to me.
+
+* ## Credits Page:
+* Acknowledges and gives the credit to the resouces and tools that were used in the development of my page.
+
+* ## Shared Features:
+* Header and navbar stay the same across all pages with website title for easy navigation for the visitors.
+* Footer also stays the same across all pages and provides links to social media.
