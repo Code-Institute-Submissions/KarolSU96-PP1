@@ -48,3 +48,6 @@ On "About me" page user the visitors can see how I look and read a short bio tha
 * Highlights my inetest in reading fantasy books. Includes a description and an image of books stacked on top of each other.
 
 ## Jam with Me Page:
+
+- Encourages visitors to collaborate with me and make some music together.
+- Includes a form for visitors to enter thier name, email and leave a short message to me.
