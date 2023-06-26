@@ -18,10 +18,14 @@ My personal Site is a simple website build to introduce me to people that visit 
 It allows the musicians that I meet to quickly look at my interest and contact me if they are willing to.
 
 The website consists of multiple pages:
-⋅*About me
-⋅*Hobbies
-⋅*Jam with me
-⋅*Credits
+
+⋅\*About me.
+
+⋅\*Hobbies.
+
+⋅\*Jam with me.
+
+⋅\*Credits.
 
 The header and footer style stays the same throughout all 4 pages.
 
