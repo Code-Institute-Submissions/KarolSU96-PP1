@@ -55,8 +55,6 @@ nav a:hover {
 /* main conent section in index.html*/
 #main-section {
   background-color: #eee2de;
-  border-style: solid;
-  border-color: #b31312;
   height: 700px;
   overflow: hidden;
 }
@@ -101,7 +99,7 @@ footer li {
   margin: 5%;
 }
 
-/* hobbies page, header not changed */
+/* hobbies page */
 
 #container-top {
   display: flex;
@@ -142,7 +140,7 @@ footer li {
   padding-left: 10px;
 }
 
-/* jam.html styles */
+/* jam.html page */
 
 #contact-form {
   margin: auto;
