@@ -20,16 +20,14 @@ It allows the musicians that I meet to quickly look at my interest and contact m
 The website consists of multiple pages:
 
 ⋅\*About me.
+![About Me](image.png)
+
 ⋅\*Hobbies.
 
 ⋅\*Jam with me.
 
 ⋅\*Credits.
 
-The header and footer style stays the same throughout all 4 pages.
-
-The whole website is using Nunito font.
-
-Header
+The header and footer style stays the same throughout all 4 pages.The whole website is using Nunito font.
 
 On "About me" page user the visitors can see how I look and read a short bio that describes what I do with small encouragement for jam session.
