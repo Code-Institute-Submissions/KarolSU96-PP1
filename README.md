@@ -42,3 +42,9 @@ On "About me" page user the visitors can see how I look and read a short bio tha
 - Introduces the user to me and my personal site.
 - Displays a graphic that looks really similar to me IRL.
 - Provides short description of myself.
+
+* ## Hobbies Page:
+* Shows the visitors my passion for music, includes desctiption and a embeded YouTube Vide of me playing on gitar.
+* Highlights my inetest in reading fantasy books. Includes a description and an image of books stacked on top of each other.
+
+## Jam with Me Page:
