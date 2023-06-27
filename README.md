@@ -40,21 +40,21 @@ The header and footer style stays the same throughout all 4 pages.
 - Displays a graphic that looks really similar to me IRL.
 - Provides short description of myself.
 
-* ## Hobbies Page:
-* Shows the visitors my passion for music, includes desctiption and a embeded YouTube Vide of me playing on gitar.
-* Highlights my inetest in reading fantasy books. Includes a description and an image of books stacked on top of each other.
+- ## Hobbies Page:
+- Shows the visitors my passion for music, includes desctiption and a embeded YouTube Vide of me playing on gitar.
+- Highlights my inetest in reading fantasy books. Includes a description and an image of books stacked on top of each other.
 
 ## Jam with Me Page:
 
 - Encourages visitors to collaborate with me and make some music together.
 - Includes a form for visitors to enter thier name, email and leave a short message to me.
 
-* ## Credits Page:
-* Acknowledges and gives the credit to the resouces and tools that were used in the development of my page.
+- ## Credits Page:
+- Acknowledges and gives the credit to the resouces and tools that were used in the development of my page.
 
-* ## Shared Features:
-* Header and navbar stay the same across all pages with website title for easy navigation for the visitors.
-* Footer also stays the same across all pages and provides links to social media.
+- ## Shared Features:
+- Header and navbar stay the same across all pages with website title for easy navigation for the visitors.
+- Footer also stays the same across all pages and provides links to social media.
 
 ## Technologies Used
 
@@ -64,7 +64,7 @@ The header and footer style stays the same throughout all 4 pages.
 ## Deployment
 
 This website is deployed using GitHub Pages.
-The IDE that I've been using is VS Code with extensions:
+The Editor that I've been using is VS Code with extensions:
 
 - Auto Close Tag
 - Color Highlight
@@ -78,11 +78,16 @@ The IDE that I've been using is VS Code with extensions:
 - stylelint-plus
 - Toggle Column Selection
 
-Let me take you through the process:
+I would like to thank Code Institute for a short toutorial for deployment of the websites on GitHub.
 
-1. At first I created a new repository in github and initialized it with README file.
-2. The repository was cloned using git client on my pc. I created local copy of this repository on my pc.
-3.
+Let me take you through the process of deployment of this website:
+
+1. Go to project's direcotry on Github.
+2. Click on "Settings".
+3. Scroll to the "GitHub Pages".
+4. Select Main as "Source"
+5. Click save.
+6. The site link will be generated after a few minutes.
 
 ## Credits
 
@@ -93,3 +98,4 @@ Let me take you through the process:
 - Css Tricks
 - Color Hunt color palette https://colorhunt.co/palette/eee2deea906cb313122b2a4c
 - Iframe code from: https://docs.document360.com/docs/embed-youtube-shorts
+- Code Institute
