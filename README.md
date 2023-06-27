@@ -1,5 +1,3 @@
-This is readmefile that I'll use to describe my website in details.
-
 # My Personal Site!
 
 Fully functional personal website that allows people that visit it to get to know my hobbies and connect with me.
@@ -63,3 +61,10 @@ The header and footer style stays the same throughout all 4 pages.
 - CSS
 
 ## Credits
+
+- Bald icons created by Pixelmeetup - Flaticon https://www.flaticon.com/free-icons/bald
+- Books icons created by Freepik - Flaticon https://www.flaticon.com/free-icons/books
+- FontAwesome Social media icons and Music note in the title https://fontawesome.com/
+- W3Schools
+- Css Tricks
+- Color Hunt color palette https://colorhunt.co/palette/eee2deea906cb313122b2a4c
