@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap");
 
-/* Styles for every page */
+/* styles for every page */
 * {
   margin: 0;
 }
@@ -100,7 +100,7 @@ footer li {
   margin: 5%;
 }
 
-/* hobbies page */
+/* hobbies.html page */
 
 #container-top {
   display: flex;
