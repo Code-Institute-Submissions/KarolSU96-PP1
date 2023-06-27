@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap");
 
+/* Styles for every page */
 * {
   margin: 0;
 }
@@ -52,7 +53,7 @@ nav a:hover {
   text-decoration: underline;
 }
 
-/* main conent section in index.html*/
+/* index.html page*/
 #main-section {
   background-color: #eee2de;
   height: 700px;
