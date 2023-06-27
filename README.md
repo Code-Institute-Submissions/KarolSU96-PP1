@@ -8,6 +8,7 @@ Fully functional personal website that allows people that visit it to get to kno
 [Features](#features)
 [Usage](#usage)
 [Technologies](#technologies)
+[Deployment](#deployment)
 [Credits](#credits)
 
 ## Description
@@ -59,6 +60,29 @@ The header and footer style stays the same throughout all 4 pages.
 
 - HTML
 - CSS
+
+## Deployment
+
+This website is deployed using GitHub Pages.
+The IDE that I've been using is VS Code with extensions:
+
+- Auto Close Tag
+- Color Highlight
+- ESLint
+- file-icons
+- GitHub Codespaces
+- Live Preview
+- Live Server
+- One Dark Pro
+- Prettier - Code formatter
+- stylelint-plus
+- Toggle Column Selection
+
+Let me take you through the process:
+
+1. At first I created a new repository in github and initialized it with README file.
+2. The repository was cloned using git client on my pc. I created local copy of this repository on my pc.
+3.
 
 ## Credits
 
