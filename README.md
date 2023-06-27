@@ -7,7 +7,7 @@ Fully functional personal website that allows people that visit it to get to kno
 [Description](#description)
 [Features](#features)
 [Usage](#usage)
-[Technologies](#technologies)
+[Languages](#languages)
 [Deployment](#deployment)
 [Credits](#credits)
 
@@ -56,7 +56,7 @@ The header and footer style stays the same throughout all 4 pages.
 - Header and navbar stay the same across all pages with website title for easy navigation for the visitors.
 - Footer also stays the same across all pages and provides links to social media.
 
-## Technologies Used
+## Lagnuages Used
 
 - HTML
 - CSS
