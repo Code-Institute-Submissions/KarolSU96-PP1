@@ -18,17 +18,17 @@ It allows the musicians that I meet to quickly look at my interest and contact m
 
 The website consists of multiple pages:
 
-⋅\*About me.
-![About Me Page](/images/image.png)
+- About me.
+  ![About Me Page](/images/image.png)
 
-⋅\*Hobbies.
-![Hobbies Page](/images/image-1.png)
+- Hobbies.
+  ![Hobbies Page](/images/image-1.png)
 
-⋅\*Jam with me.
-![Jam With Me Page](/images/image-2.png)
+- Jam with me.
+  ![Jam With Me Page](/images/image-2.png)
 
-⋅\*Credits.
-![Credits Page](/images/image-3.png)
+- Credits.
+  ![Credits Page](/images/image-3.png)
 
 The whole website is using Nunito font.
 The header and footer style stays the same throughout all 4 pages.
