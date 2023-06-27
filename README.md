@@ -68,3 +68,4 @@ The header and footer style stays the same throughout all 4 pages.
 - W3Schools
 - Css Tricks
 - Color Hunt color palette https://colorhunt.co/palette/eee2deea906cb313122b2a4c
+- Iframe code from: https://docs.document360.com/docs/embed-youtube-shorts
