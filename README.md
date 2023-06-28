@@ -46,7 +46,7 @@ The header and footer style stays the same throughout all 4 pages.
 - Provides short description of myself.
 
 - ## Hobbies Page:
-- Shows the visitors my passion for music, includes desctiption and a embeded YouTube Vide of me playing on gitar.
+- Shows the visitors my passion for music, includes description and a embeded YouTube Video of me playing on guitar.
 - Highlights my inetest in reading fantasy books. Includes a description and an image of books stacked on top of each other.
 
 - ## Jam with Me Page:
@@ -109,6 +109,8 @@ Let me take you through the process of deployment of this website:
 
 - W3C validator shows no errors or warnings.
 - Jigsaw validator shows no errors or warnings.
+- Lighthouse score is very high. The site gets a few points off because of navbar anchor tags. These anchor tags are taking the users to different pages on my webpage, therefore I decided that adding "rel" attribute is not needed.
+  ![Lighthouse](/images/Lighthouse.PNG)
 
 ## Improvement:
 
