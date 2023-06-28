@@ -13,7 +13,7 @@ GitHub Repo: https://github.com/KarolSU96/PP1
 [Languages](#languages)
 [Deployment](#deployment)
 [Credits](#credits)
-[Validator](#validators)
+[Validators](#validators)
 [Improvment](#improvement)
 
 ## Description
