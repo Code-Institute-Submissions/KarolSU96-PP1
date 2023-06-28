@@ -10,6 +10,7 @@ Fully functional personal website that allows people that visit it to get to kno
 [Languages](#languages)
 [Deployment](#deployment)
 [Credits](#credits)
+[Improvment](#improvement)
 
 ## Description
 
@@ -99,3 +100,8 @@ Let me take you through the process of deployment of this website:
 - Color Hunt color palette https://colorhunt.co/palette/eee2deea906cb313122b2a4c
 - Iframe code from: https://docs.document360.com/docs/embed-youtube-shorts
 - Code Institute
+
+## Improvement
+
+There is still a bit of improvement to be done.
+When I learn about the back end I want to actually be able to read the messages that the visitors to my page will send me and cooperate with them. For now the form is just there but I hope to be able to correct this project in near future and use it as my virtual business card during music events that I will attend.
