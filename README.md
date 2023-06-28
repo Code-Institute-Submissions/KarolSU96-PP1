@@ -13,6 +13,7 @@ GitHub Repo: https://github.com/KarolSU96/PP1
 [Languages](#languages)
 [Deployment](#deployment)
 [Credits](#credits)
+[Validator Testing](#validator)
 [Improvment](#improvement)
 
 ## Description
@@ -103,6 +104,11 @@ Let me take you through the process of deployment of this website:
 - Color Hunt color palette https://colorhunt.co/palette/eee2deea906cb313122b2a4c
 - Iframe code from: https://docs.document360.com/docs/embed-youtube-shorts
 - Code Institute
+
+## Validator testing:
+
+- W3C validator shows no errors or warnings.
+- Jigsaw validator shows no errors or warnings.
 
 ## Improvement:
 
