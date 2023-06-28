@@ -1,7 +1,9 @@
 # My Personal Site!
 
 Fully functional personal website that allows people that visit it to get to know my hobbies and connect with me.
+
 Website Link: https://karolsu96.github.io/PP1/
+
 GitHub Repo: https://github.com/KarolSU96/PP1
 
 ## Table of Contents
