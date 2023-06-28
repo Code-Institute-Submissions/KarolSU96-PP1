@@ -105,7 +105,7 @@ Let me take you through the process of deployment of this website:
 - Iframe code from: https://docs.document360.com/docs/embed-youtube-shorts
 - Code Institute
 
-## Validators :
+## Validators:
 
 - W3C validator shows no errors or warnings.
 - Jigsaw validator shows no errors or warnings.
