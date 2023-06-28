@@ -24,16 +24,16 @@ It allows the musicians that I meet to quickly look at my interest and contact m
 The website consists of multiple pages:
 
 - About me.
-  ![About Me Page](/images/image.png)
+  ![About Me Page](/readme-images/image.png)
 
 - Hobbies.
-  ![Hobbies Page](/images/image-1.png)
+  ![Hobbies Page](readme-images/image-1.png)
 
 - Jam with me.
-  ![Jam With Me Page](/images/image-2.png)
+  ![Jam With Me Page](readme-images/image-2.png)
 
 - Credits.
-  ![Credits Page](/images/image-3.png)
+  ![Credits Page](readme-images/image-3.png)
 
 The whole website is using Nunito font.
 The header and footer style stays the same throughout all 4 pages.
@@ -110,7 +110,7 @@ Let me take you through the process of deployment of this website:
 - W3C validator shows no errors or warnings.
 - Jigsaw validator shows no errors or warnings.
 - Lighthouse score is very high. The site gets a few points off because of navbar anchor tags. These anchor tags are taking the users to different pages on my webpage, therefore I decided that adding "rel" attribute is not needed.
-  ![Lighthouse](/images/Lighthouse.PNG)
+  ![Lighthouse](/readme-images/Lighthouse.PNG)
 
 ## Improvement:
 
