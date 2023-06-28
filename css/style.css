@@ -53,6 +53,24 @@ nav a:hover {
   text-decoration: underline;
 }
 
+/* footer */
+footer h2 {
+  text-align: center;
+  margin: auto;
+}
+
+footer ul {
+  text-align: center;
+  margin-top: 3%;
+  padding-bottom: 30px;
+}
+
+footer li {
+  list-style: none;
+  display: inline;
+  margin: 5%;
+}
+
 /* index.html page*/
 #main-section {
   background-color: #eee2de;
@@ -82,26 +100,7 @@ nav a:hover {
   font-size: 1.5rem;
 }
 
-/* footer */
-footer h2 {
-  text-align: center;
-  margin: auto;
-}
-
-footer ul {
-  text-align: center;
-  margin-top: 3%;
-  padding-bottom: 30px;
-}
-
-footer li {
-  list-style: none;
-  display: inline;
-  margin: 5%;
-}
-
 /* hobbies.html page */
-
 #container-top {
   display: flex;
   justify-content: center;
@@ -142,7 +141,6 @@ footer li {
 }
 
 /* jam.html page */
-
 #contact-form {
   margin: auto;
   width: 50%;
@@ -166,7 +164,6 @@ footer li {
 }
 
 /* media queries  for index.html */
-
 @media screen and (max-width: 940px) {
   #selfie img {
     width: 200px;
@@ -190,7 +187,6 @@ footer li {
 }
 
 /* media queries for hobbies.html */
-
 @media screen and (max-width: 670px) {
   #books-img {
     width: 200px;
