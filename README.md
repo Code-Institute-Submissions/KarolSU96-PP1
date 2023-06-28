@@ -1,12 +1,13 @@
 # My Personal Site!
 
 Fully functional personal website that allows people that visit it to get to know my hobbies and connect with me.
+Website Link: https://karolsu96.github.io/PP1/
+GitHub Repo: https://github.com/KarolSU96/PP1
 
 ## Table of Contents
 
 [Description](#description)
 [Features](#features)
-[Usage](#usage)
 [Languages](#languages)
 [Deployment](#deployment)
 [Credits](#credits)
@@ -45,7 +46,7 @@ The header and footer style stays the same throughout all 4 pages.
 - Shows the visitors my passion for music, includes desctiption and a embeded YouTube Vide of me playing on gitar.
 - Highlights my inetest in reading fantasy books. Includes a description and an image of books stacked on top of each other.
 
-## Jam with Me Page:
+- ## Jam with Me Page:
 
 - Encourages visitors to collaborate with me and make some music together.
 - Includes a form for visitors to enter thier name, email and leave a short message to me.
@@ -57,12 +58,12 @@ The header and footer style stays the same throughout all 4 pages.
 - Header and navbar stay the same across all pages with website title for easy navigation for the visitors.
 - Footer also stays the same across all pages and provides links to social media.
 
-## Lagnuages Used
+## Languages:
 
 - HTML
 - CSS
 
-## Deployment
+## Deployment:
 
 This website is deployed using GitHub Pages.
 The Editor that I've been using is VS Code with extensions:
@@ -90,7 +91,7 @@ Let me take you through the process of deployment of this website:
 5. Click save.
 6. The site link will be generated after a few minutes.
 
-## Credits
+## Credits:
 
 - Bald icons created by Pixelmeetup - Flaticon https://www.flaticon.com/free-icons/bald
 - Books icons created by Freepik - Flaticon https://www.flaticon.com/free-icons/books
@@ -101,7 +102,7 @@ Let me take you through the process of deployment of this website:
 - Iframe code from: https://docs.document360.com/docs/embed-youtube-shorts
 - Code Institute
 
-## Improvement
+## Improvement:
 
 There is still a bit of improvement to be done.
 When I learn about the back end I want to actually be able to read the messages that the visitors to my page will send me and cooperate with them. For now the form is just there but I hope to be able to correct this project in near future and use it as my virtual business card during music events that I will attend.
